@@ -1,0 +1,18 @@
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Models\bin\Debug\netcoreapp2.0\AutoMappingObjects.Models.deps.json
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Models\bin\Debug\netcoreapp2.0\AutoMappingObjects.Models.dll
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Models\obj\Debug\netcoreapp2.0\AutoMappingObjects.Models.csprojResolveAssemblyReference.cache
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Models\obj\Debug\netcoreapp2.0\AutoMappingObjects.Models.csproj.CoreCompileInputs.cache
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Models\obj\Debug\netcoreapp2.0\AutoMappingObjects.Models.AssemblyInfoInputs.cache
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Models\obj\Debug\netcoreapp2.0\AutoMappingObjects.Models.AssemblyInfo.cs
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Models\bin\Debug\netcoreapp2.0\AutoMappingObjects.Models.pdb
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Models\obj\Debug\netcoreapp2.0\AutoMappingObjects.Models.dll
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Models\obj\Debug\netcoreapp2.0\AutoMappingObjects.Models.pdb
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Models\bin\Debug\netcoreapp2.0\AutoMappingObjects.Models.deps.json
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Models\bin\Debug\netcoreapp2.0\AutoMappingObjects.Models.dll
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Models\bin\Debug\netcoreapp2.0\AutoMappingObjects.Models.pdb
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Models\obj\Debug\netcoreapp2.0\AutoMappingObjects.Models.csprojResolveAssemblyReference.cache
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Models\obj\Debug\netcoreapp2.0\AutoMappingObjects.Models.csproj.CoreCompileInputs.cache
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Models\obj\Debug\netcoreapp2.0\AutoMappingObjects.Models.AssemblyInfoInputs.cache
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Models\obj\Debug\netcoreapp2.0\AutoMappingObjects.Models.AssemblyInfo.cs
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Models\obj\Debug\netcoreapp2.0\AutoMappingObjects.Models.dll
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Models\obj\Debug\netcoreapp2.0\AutoMappingObjects.Models.pdb

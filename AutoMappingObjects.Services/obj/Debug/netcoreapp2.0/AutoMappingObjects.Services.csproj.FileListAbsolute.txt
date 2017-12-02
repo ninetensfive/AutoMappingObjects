@@ -1,0 +1,17 @@
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Services\obj\Debug\netcoreapp2.0\AutoMappingObjects.Services.csprojResolveAssemblyReference.cache
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Services\obj\Debug\netcoreapp2.0\AutoMappingObjects.Services.csproj.CoreCompileInputs.cache
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Services\obj\Debug\netcoreapp2.0\AutoMappingObjects.Services.AssemblyInfoInputs.cache
+C:\Users\r.georgiev\Documents\Visual Studio 2017\Projects\AutoMappingObjects\AutoMappingObjects.Services\obj\Debug\netcoreapp2.0\AutoMappingObjects.Services.AssemblyInfo.cs
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\obj\Debug\netcoreapp2.0\AutoMappingObjects.Services.csprojResolveAssemblyReference.cache
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\obj\Debug\netcoreapp2.0\AutoMappingObjects.Services.csproj.CoreCompileInputs.cache
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\obj\Debug\netcoreapp2.0\AutoMappingObjects.Services.AssemblyInfoInputs.cache
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\obj\Debug\netcoreapp2.0\AutoMappingObjects.Services.AssemblyInfo.cs
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\bin\Debug\netcoreapp2.0\AutoMappingObjects.Services.deps.json
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\bin\Debug\netcoreapp2.0\AutoMappingObjects.Services.dll
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\bin\Debug\netcoreapp2.0\AutoMappingObjects.Services.pdb
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\bin\Debug\netcoreapp2.0\AutoMappingObjects.Data.dll
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\bin\Debug\netcoreapp2.0\AutoMappingObjects.Models.dll
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\bin\Debug\netcoreapp2.0\AutoMappingObjects.Data.pdb
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\bin\Debug\netcoreapp2.0\AutoMappingObjects.Models.pdb
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\obj\Debug\netcoreapp2.0\AutoMappingObjects.Services.dll
+D:\PROJECTS\AutoMappingObjects\AutoMappingObjects.Services\obj\Debug\netcoreapp2.0\AutoMappingObjects.Services.pdb
