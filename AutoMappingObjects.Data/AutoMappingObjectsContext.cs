@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AutoMappingObjects.Data.Configurations;
+using AutoMappingObjects.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -11,6 +13,8 @@ namespace AutoMappingObjects.Data
 
         public AutoMappingObjectsContext(DbContextOptions options) : base(options) { }
 
+        public DbSet<Employee> Employees { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder builder)
         {
             if (!builder.IsConfigured)
@@ -21,7 +25,7 @@ namespace AutoMappingObjects.Data
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
-
+            builder.ApplyConfiguration(new EmployeeConfiguration());
         }
     }
 }

@@ -6,7 +6,7 @@ namespace AutoMappingObjects.Data
 {
     public static class Configuration
     {
-        public const string ConnectionString = @"Server = DEMAXRG1\SQLEXPRESS;" + 
+        public const string ConnectionString = @"Server = .;" + 
                                                 "Database = AutoMappingObjects; " +
                                                 "Integrated Security = yes";
     }

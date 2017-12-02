@@ -4,11 +4,12 @@ using AutoMappingObjects.Models;
 
 namespace AutoMappingObjects.Client.Configuration
 {
-    public class MapProfile : Profile
+    public class MappingProfile : Profile
     {
-        public MapProfile()
+        public MappingProfile()
         {
             CreateMap<Employee, EmployeeDTO>();
+            CreateMap<Employee, ManagerDTO>();
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace AutoMappingObjects.Services.Contracts
 {
@@ -6,10 +7,16 @@ namespace AutoMappingObjects.Services.Contracts
     {
         TModel AddEmployee<TModel>(string firstName, string lastName, decimal salary);
 
-        void SetBirthday(int employeeId, DateTime date);
+        TModel SetBirthday<TModel>(int employeeId, DateTime date);
 
-        void SetAddress(int employeeId, string address);
+        Tmodel SetAddress<Tmodel>(int employeeId, string address);
 
         string EmployeeInfo(int employeeId);
+
+        TModel SetManager<TModel>(int employeeId, int managerId);
+
+        TModel GetEmployeeById<TModel>(int id);
+
+        IEnumerable<TModel> ListEmployeesOlderThan<TModel>(int age);
     }
 }
